@@ -11,6 +11,7 @@ namespace APTool_v1
         Thread Backing;
         Back b;
         DataTable dt;
+        string txtResult;
         public Form1()
         {
             InitializeComponent();
@@ -21,7 +22,7 @@ namespace APTool_v1
             //Подгружаем таблицу трекеров, по умолчанию отображаем все типы трекеров.
             dt = b.LoadTable("all");
             dataGridView1.DataSource = dt;
-            comboBox1.DataSource = new string[] { "programs", "sites", "all" };
+            comboBox1.DataSource = new string[] { "programs", "sites" };
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -58,7 +59,7 @@ namespace APTool_v1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            // при выходе сохраняем всё и убиваем процесс отмлеживателя
+            // при выходе сохраняем всё и убиваем процесс отcлеживателя
             notifyIcon1.Icon = null;// попытка пофиксить проблему с неисчезающей иконкой в трее
             b.SaveData();
             Backing.Abort();
@@ -67,15 +68,34 @@ namespace APTool_v1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            // диалог добавления нового трекера - программы
-            if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
+            switch (comboBox1.SelectedItem)
             {
-                string path = folderBrowserDialog1.SelectedPath;
-                foreach (string f in Directory.EnumerateFiles(path, "*.exe", SearchOption.AllDirectories))
-                {
-                    b.AddTracker(new Tracker { Name = Path.GetFileName(f), Time = 0, Type = "programs" });
-                }
-                b.SaveData();
+                case "programs":
+                    // диалог добавления нового трекера - программы
+                    if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
+                    {
+                        string path = folderBrowserDialog1.SelectedPath;
+                        foreach (string f in Directory.EnumerateFiles(path, "*.exe", SearchOption.AllDirectories))
+                        {
+                            b.AddTracker(new Tracker { Name = Path.GetFileName(f), Time = 0, Type = "programs" });
+                        }
+                        b.SaveData();
+                    }
+                    break;
+                case "sites":
+                    Form2 testDialog = new Form2();
+                    if (testDialog.ShowDialog(this) == DialogResult.OK)
+                    {
+                        this.txtResult = testDialog.textBox1.Text;
+                    }
+                    else
+                    {
+                        this.txtResult = "";
+                    }
+                    testDialog.Dispose();
+                    b.AddTracker(new Tracker { Name = txtResult, Time = 0, Type = "sites" });
+                    b.SaveData();
+                    break;
             }
             UpdateTable();
         }
