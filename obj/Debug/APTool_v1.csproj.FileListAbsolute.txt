@@ -1,0 +1,58 @@
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\APTool_v1.exe.config
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\APTool_v1.exe
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\APTool_v1.pdb
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Buffers.dll
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Memory.dll
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Numerics.Vectors.dll
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Text.Json.dll
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.ValueTuple.dll
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Buffers.xml
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Memory.xml
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Numerics.Vectors.xml
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Text.Json.xml
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Home\10 класс\Проект\APTool\APTool_v1\bin\Debug\System.ValueTuple.xml
+C:\Home\10 класс\Проект\APTool\APTool_v1\obj\Debug\APTool_v1.Properties.Resources.resources
+C:\Home\10 класс\Проект\APTool\APTool_v1\obj\Debug\APTool_v1.csproj.GenerateResource.cache
+C:\Home\10 класс\Проект\APTool\APTool_v1\obj\Debug\APTool_v1.csproj.CoreCompileInputs.cache
+C:\Home\10 класс\Проект\APTool\APTool_v1\obj\Debug\APTool_v1.csproj.CopyComplete
+C:\Home\10 класс\Проект\APTool\APTool_v1\obj\Debug\APTool_v1.exe
+C:\Home\10 класс\Проект\APTool\APTool_v1\obj\Debug\APTool_v1.pdb
+C:\Home\10 класс\Проект\APTool\APTool_v1\obj\Debug\APTool_v1.csprojAssemblyReference.cache
+C:\Home\10 класс\Проект\APTool\APTool_v1\obj\Debug\APTool_v1.Form1.resources
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\APTool_v1.exe.config
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\APTool_v1.exe
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\APTool_v1.pdb
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Buffers.dll
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Memory.dll
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Text.Json.dll
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.ValueTuple.dll
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Buffers.xml
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Memory.xml
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Text.Json.xml
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\miron\Downloads\APTool_v1\bin\Debug\System.ValueTuple.xml
+C:\Users\miron\Downloads\APTool_v1\obj\Debug\APTool_v1.csprojAssemblyReference.cache
+C:\Users\miron\Downloads\APTool_v1\obj\Debug\APTool_v1.Form1.resources
+C:\Users\miron\Downloads\APTool_v1\obj\Debug\APTool_v1.Properties.Resources.resources
+C:\Users\miron\Downloads\APTool_v1\obj\Debug\APTool_v1.csproj.GenerateResource.cache
+C:\Users\miron\Downloads\APTool_v1\obj\Debug\APTool_v1.csproj.CoreCompileInputs.cache
+C:\Users\miron\Downloads\APTool_v1\obj\Debug\APTool_v1.csproj.CopyComplete
+C:\Users\miron\Downloads\APTool_v1\obj\Debug\APTool_v1.exe
+C:\Users\miron\Downloads\APTool_v1\obj\Debug\APTool_v1.pdb
